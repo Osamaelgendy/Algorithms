@@ -3,7 +3,7 @@ maxw=input('Enter your bag maximum weight: ')
 profits=[]
 weights=[]
 
-#Taking Profits & weigths inputs fomr the user and assign them to lists
+#Taking Profits & weigths inputs from the user and assign them to lists
 for i in range (7):
     x=input('Enter your profit:')
     x=int(x)
